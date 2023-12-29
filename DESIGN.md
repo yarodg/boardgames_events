@@ -2,7 +2,7 @@
 
 By Jaroslaw Zabkiewicz
 
-Video overview: <https://www.youtube.com/watch?v=crzQx-5QT9I>
+Video overview: 
 
 ## Scope
 
